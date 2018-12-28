@@ -14,6 +14,7 @@ end
 dates_by_month = dates.group_by { |d| d.strftime('%-m') }
 dates_by_month.transform_values!(&:length)
 
+puts 'Dates by month from files'
 (1..12).each do |d|
   puts "#{d}\t:\t#{dates_by_month[d.to_s]}"
 end
