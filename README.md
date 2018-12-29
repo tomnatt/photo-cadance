@@ -1,6 +1,6 @@
 # Photo analysis
 
-Looking at the frequency I take photographs by looking at the files I've got on my hard drive, and photos posted to Instagram. Generated the data to support [this blog post](https://tomnatt.blogspot.com/) via [this basic analysis](https://docs.google.com/spreadsheets/d/1dkXr75l3aKn4SPEOlJxaWhFUSIeGm1p8-O9xHlTsQ9c/edit?usp=sharing).
+Looking at the frequency I take photographs by looking at the files I've got on my hard drive, and photos posted to Instagram. Generated the data to support [this blog post](https://tomnatt.blogspot.com/2018/12/mental-health-and-maths.html) via [this basic analysis](https://docs.google.com/spreadsheets/d/1dkXr75l3aKn4SPEOlJxaWhFUSIeGm1p8-O9xHlTsQ9c/edit?usp=sharing).
 
 ## How to run
 
